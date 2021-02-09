@@ -1,6 +1,6 @@
 # piglow
 
-This repository contains some Python examples I have written for the PiGlow board.
+This repository contains some Python examples I have written for the PiGlow.
 
 The PiGlow is a small add on board for the Raspberry Pi that provides 18 individually controllable LEDs.
 
