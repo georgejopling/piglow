@@ -77,10 +77,10 @@ try:
 # Pause on amber for 3 seconds.
         time.sleep(3.0)
 # Extinguish amber LED and illuminate red LED on arms 1 & 3.
-        piglow.single(1,7,0)
-        piglow.single(3,7,0)
-        piglow.single(1,6,255)
-        piglow.single(3,6,255)
+        piglow.single(1, 7, 0)
+        piglow.single(3, 7, 0)
+        piglow.single(1, 6, 255)
+        piglow.single(3, 6, 255)
         piglow.show()
 # Pause 1.5 seconds.
         time.sleep(1.5)           
